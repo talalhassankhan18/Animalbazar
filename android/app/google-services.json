@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17624100117",
+    "project_id": "petstore-119d6",
+    "storage_bucket": "petstore-119d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17624100117:android:3065ebb384baa933418d1c",
+        "android_client_info": {
+          "package_name": "com.example.pet_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17624100117-dhj252t5pjs3ho22k34pc7rpja33sud8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbHPSHk3bi47QenazeyOLngJg6IIo4SqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17624100117-dhj252t5pjs3ho22k34pc7rpja33sud8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
